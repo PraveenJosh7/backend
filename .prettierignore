@@ -1,0 +1,10 @@
+# in which files i should ignore Prettier
+
+/.vscode
+/node_modules
+./dist
+
+
+*.env
+.env
+.env.*
